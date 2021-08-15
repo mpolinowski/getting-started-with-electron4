@@ -1,0 +1,14 @@
+{
+  "name": "getting-started-with-electron4",
+  "version": "1.0.0",
+  "description": "Getting started with Electron Version 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Mike Polinowski",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^4.1.4"
+  }
+}
